@@ -49,9 +49,7 @@ If you're new to Apollo, you're going to find not knowing this very annoying.
     ..blah blah of undefined   
   ````
   
-  which isn't very helpful.
-  
-  
+  which isn't very helpful.  Same for `useMutation` but the syntax is a little different.
   
   
   
